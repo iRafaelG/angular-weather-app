@@ -1,6 +1,10 @@
-# AngularWeatherapp
+# Angular Weather App
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.2.9.
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.2.9. Please, before running make sure you have set your open weather api into `wheather service` file.
+
+A simple weather web app using Open Weather API.
+
+![Angular Weather App](/src/assets/images/angular-weather-app.png)
 
 ## Development server
 
